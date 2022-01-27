@@ -7,10 +7,9 @@ nbody [FILENAME] -n/--natural-units
 
 with the arguments being:
 
-    - FILENAME: required, path to initial conditions textfile 
+- FILENAME: required, path to initial conditions textfile 
     
-    - n/natural-units: optional command-line switch to set G = 1, if omitted G 
-      will be used as 6.67e-11
+- n/natural-units: optional command-line switch to set G = 1, if omitted G will be used as 6.67e-11
 
 The other .txt files besides this one are initial conditions files,
 corresponding to the ones used in the report. These are formatted in the way as
