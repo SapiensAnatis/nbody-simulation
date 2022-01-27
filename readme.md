@@ -1,6 +1,6 @@
 # Overview
 
-This is an nbody simulation code that uses a Verlet integrator to produce position and velocity data for the given initial conditions, which are taken as a textfile passed when invoking the program. It is set up to simulate the gravitational interactions between large bodies, but the calculation of acceleration could be swapped to use a different potential very easily. It was originally written and submitted for a scientific programming class. The file report.pdf contains a more in-depth analysis of the program and the results it produced.
+This is an nbody simulation code that uses a Verlet integrator to produce position and velocity data for the given initial conditions, which are taken as a textfile passed when invoking the program. It is set up to simulate the gravitational interactions between large bodies, but the calculation of acceleration could be swapped to use a different potential very easily. It was originally written and submitted for a scientific programming class. The file report.pdf contains a more in-depth analysis of the program and the results it produced. Should you decide to read this, please note that the marker for this assessment pointed out the angular momentum issues were due to the fact that angular momentum itself was being calculated incorrectly! (It needs to be a vector cross product, not a scalar multiplication).
 
 Use `make` to build the code. There are no external dependencies. The resulting
 executable 'nbody' is invoked as follows:
