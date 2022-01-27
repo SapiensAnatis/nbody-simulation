@@ -11,10 +11,8 @@ with the arguments being:
     
 - n/natural-units: optional command-line switch to set G = 1, if omitted G will be used as 6.67e-11
 
-The other .txt files besides this one (dragonfly.txt, moth.txt, etc.) are initial conditions files,
-corresponding to the ones used in the report. These are formatted in the way as
-called for in the assessment brief, with the addition of the fact that lines
-starting with a '#' are considered comments and ignored when parsing.
+The other .txt files besides this one (dragonfly.txt, moth.txt, etc.) are initial
+condition files, corresponding to the ones used in the report.
 
 The program asks the user to input the end time and the timestep. These are just
 passed to strtod(), so anything accepted by the %e format specifier will most
