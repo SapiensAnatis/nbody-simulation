@@ -1,0 +1,6 @@
+# Intended for use with G =  6.67e-11 (value in SI units)
+# Tab separated-columns with:
+# Name / Mass (kg) / pos_x (m) / pos_y (m) / pos_z (m) / vel_x (m/s) / vel_y (m/s) / vel_z (m/s)
+Sun 2e+30	0e+0    0e+0    0e+0    0e+0	0e+0	0e+0
+EccentricPlanet	3e23	6e10	0e+0	0e+0	0e+0	60e3	0e+0
+Earth	6e24	150e9	0e+0	0e+0	0e+0	30e3

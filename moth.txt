@@ -1,0 +1,6 @@
+# Ref: V. Dmitrašinović, A. Hudomal, M. Shibayama, A. Sugita, Newtonian Periodic Three-Body Orbits with Zero Angular Momentum: Linear Stability and Topological Dependence of the Period. arXiv:1705.03728 
+# Intended for use with G = 1 (-n or --natural-units command line switch after filename)
+# Accessed via https://observablehq.com/@rreusser/periodic-planar-three-body-orbits#group=%C5%A0uvakov&sequence=VIIa%20-%20Moth&orbit=VIIa.6.A
+MothA	1e0	-1e0	0e0	0e0	0.442591e0	0.423514e0	0e0
+MothB	1e0	1e0	0e0	0e0	0.442591e0	0.423514e0	0e0
+MothC	1e0	0e0	0e0	0e0	-0.885182e0	-0.847028e0	0e0

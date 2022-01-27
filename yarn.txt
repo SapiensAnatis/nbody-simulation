@@ -1,0 +1,6 @@
+# Ref: M. Šuvakov, V. Dmitrašinović, Three Classes of Newtonian Three-Body Planar Periodic Orbits, Phys. Rev. Lett. 110, 114301 (2013). arXiv:1303.0181
+# Intended for use with G = 1 (-n or --natural-units command line switch after filename)
+# Accessed via https://observablehq.com/@rreusser/periodic-planar-three-body-orbits#group=%C5%A0uvakov&sequence=II%20-%20Dragonfly&orbit=II.4.A
+YarnA	1	-1	0	0	0.464445	0.39606	0
+YarnB	1	1	0	0	0.464445	0.39606	0
+YarnC	1	0	0	0	-0.92889	-0.79212	0

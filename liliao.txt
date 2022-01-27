@@ -1,0 +1,6 @@
+# Ref: X. Li, S. Liao, More than six hundred new families of Newtonian periodic planar collisionless three-body orbits, Science China-Physics, Mechanics & Astronomy, Vol. 60, No.12, 129511 (2017). arXiv:1705.00527v4 
+# Intended for use with G = 1 (-n or --natural-units command line switch after filename)
+# Accessed via https://observablehq.com/@rreusser/periodic-planar-three-body-orbits#group=Li%20%26%20Liao%20Equal%20Mass&sequence=I.A%20i.c.&orbit=I.A.1%20i.c.
+LiLiaoA	1e0	-1e0	0e0	0e0	0.3471168881e0	0.5327249454e0	0e0
+LiLiaoB	1e0	1e0	0e0	0e0	0.3471168881e0	0.5327249454e0	0e0
+LiLiaoC	1e0	0e0	0e0	0e0	-0.6942337762e0	-1.0654498908	0e0
